@@ -1,0 +1,40 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files or folders to ignore
+# Be very specific here based on your project structure
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix 
+*.tif
+*.tiff
+# Add other large data file extensions or specific data folders
+# Example: if your data is in a folder named "raw_data"
+# raw_data/ 
+# Or if you have a specific large file:
+# large_dataset.csv
+
+# Temporary or generated files
+map.html 
+simple_layer_test.html
+.Rproj.user/
+.Rhistory
