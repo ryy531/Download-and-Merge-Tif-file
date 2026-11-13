@@ -38,3 +38,6 @@ map.html
 simple_layer_test.html
 .Rproj.user/
 .Rhistory
+# Local logs and R workspace
+*.log
+.RData
